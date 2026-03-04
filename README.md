@@ -1,5 +1,4 @@
 # Learning-C--Harini-
-# Learning C — Harini 🚀
 
 Welcome to my C programming learning journey.
 
