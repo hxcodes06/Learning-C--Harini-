@@ -7,7 +7,7 @@ int main() {
     scanf("%d", &marks);
 
     if (marks < 0 || marks > 100) {
-        printf("Invalid marks! Enter between 0 and 100.\n");
+        printf("Invalid marks! Enter between 0 and 100..\n");
     } else if (marks >= 90) {
         printf("Grade: A+\n");
     } else if (marks >= 80) {
